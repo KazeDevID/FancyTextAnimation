@@ -1,2 +1,4 @@
-# FancyTextAnimation
-Fancy Text Animation.
+# fancy-text-animation
+
+
+![Fancy Text Animation](preview.PNG)
