@@ -1,0 +1,2 @@
+# FancyTextAnimation
+Fancy Text Animation.
